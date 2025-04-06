@@ -1,0 +1,1 @@
+SUBSYSTEM=="sound", ATTRS{idVendor}=="10f5", ATTRS{idProduct}=="2199", ATTR{id}="TBStealthPro"
